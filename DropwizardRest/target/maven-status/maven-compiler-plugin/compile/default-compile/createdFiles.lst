@@ -1,0 +1,5 @@
+com\motivity\DropwizardRest\resources\RestMain.class
+com\motivity\DropwizardRest\motivityConfiguration.class
+com\motivity\DropwizardRest\client\EmployeeService.class
+com\motivity\DropwizardRest\motivityApplication.class
+com\motivity\DropwizardRest\core\Employee.class
