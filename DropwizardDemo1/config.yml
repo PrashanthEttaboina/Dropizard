@@ -1,0 +1,10 @@
+logging:
+  level: INFO
+  loggers:
+    com.motivity: DEBUG
+
+
+message: Hi %s %s %s , welcome to Dropwizard application
+firstParameter: Prashanth
+secondParameter: Vishal
+thirdParameter: Akhil
